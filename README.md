@@ -2,6 +2,11 @@
 
 Uma landing page moderna, responsiva e dinâmica criada para uma agência digital fictícia chamada "Agência XYZ". Este projeto foi desenvolvido para demonstrar habilidades em estruturação semântica com HTML5 e layouts avançados utilizando CSS Grid e Flexbox.
 
+<img width="800" height="400" alt="Animação" src="https://github.com/user-attachments/assets/b7a74a42-8b65-4eec-87d0-7d838d2ad77b" />
+
+# Visite o site
+https://guspelepe.github.io/Pagina-De-Agencia/
+
 ## Sobre o projeto
 
 A página da Agência XYZ é uma single-page (página única) que apresenta a empresa, seus serviços e portfólio. O layout adapta-se perfeitamente a diferentes tamanhos de tela, desde monitores desktop até dispositivos móveis, garantindo uma ótima experiência de usuário (UX).
@@ -24,6 +29,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - **[FontAwesome]
 
 ## Estrutura de Arquivos
+
 
 O projeto está organizado da seguinte forma:
 
