@@ -1,7 +1,7 @@
 # Agência XYZ - Landing Page
 
 Uma landing page moderna, responsiva e dinâmica criada para uma agência digital fictícia chamada "Agência XYZ". Este projeto foi desenvolvido para demonstrar habilidades em estruturação semântica com HTML5 e layouts avançados utilizando CSS Grid e Flexbox.
-Desenvolvido como projeto para o curso DevQuest no ano de 2025
+Desenvolvido como projeto para o curso **DevQuest** no ano de 2025
 
 <img width="800" height="400" alt="Animação" src="https://github.com/user-attachments/assets/b7a74a42-8b65-4eec-87d0-7d838d2ad77b" />
 
@@ -20,7 +20,7 @@ A página da Agência XYZ é uma single-page (página única) que apresenta a em
 - **Animações CSS:** Efeito de "bounce" na seta da seção Hero para incentivar o scroll do usuário.
 - **Navegação Suave:** Links âncora que direcionam para seções específicas da página.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
